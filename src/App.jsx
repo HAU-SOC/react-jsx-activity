@@ -1,5 +1,1 @@
-const App = () => {
-  return null;
-};
-
-module.exports = App;
+// Replace this file with your React App component implementation.
