@@ -1,4 +1,4 @@
-function App() {
+export default function App() {
   return (
     <main>
       <h1>React JSX Activity</h1>
@@ -6,5 +6,3 @@ function App() {
     </main>
   );
 }
-
-export default App;
